@@ -4,6 +4,8 @@ A Network Engineer turned Cloud & DevOps engineer focused on building secure, sc
 
 A decade in networking, then the industry shifted — Cloud, SDN, NetDevOps, and Automation arrived fast. I'd always been drawn to these areas but never had the chance to go deep at work. Now I'm doing exactly that: hands-on, building real things, and documenting the journey.
 
+I use this space to document what I learn as I go deeper into cloud, automation, and DevOps. The goal is to keep building, keep learning, and share practical work that may help others on a similar path.
+
 ---
 
 ## About Me
